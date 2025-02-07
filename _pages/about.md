@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Ph.D, Northeast Normal University</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: Zhangye.jpg
+  image_circular: true # crops the image to make it circular
+  more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +19,10 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Dr. Ye Zhang earned her Ph.D. from the School of Information Science and Technology at Northeast Normal University. Her research focuses on **educational data mining**, with expertise in **MOOC recommendation systems**, **exercise recommendation algorithms**, and the diagnosis of **aesthetic perception in art education**. She has addressed key challenges such as mitigating **data sparsity** in online platforms, enhancing **personalized learning** through adaptive recommendations, and improving **assessment frameworks** for aesthetic understanding. Her research contributions have been recognized through publications in leading journals and conferences. Dr. Zhang’s interdisciplinary approach combines data-driven methods with pedagogical insights, enabling her to design scalable solutions that support both educators and learners. She has collaborated with academic and industry partners to further enhance educational technologies. Through these efforts, she continues to shape the field of data-driven education, promoting innovative practices in both online and traditional learning environments.
