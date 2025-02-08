@@ -2,7 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Ph.D, Northeast Normal University</a>
+subtitle: |
+  <a href='#'>Ph.D, Northeast Normal University</a><br>
+  <a href="mailto:zhangy923@nenu.edu.cn">zhangy923@nenu.edu.cn</a>
 
 profile:
   align: right
