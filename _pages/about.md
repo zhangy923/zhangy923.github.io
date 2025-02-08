@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: |
   <a href='#'>Ph.D, Northeast Normal University</a><br>
-  <a href="mailto:zhangy923@nenu.edu.cn">Email:zhangy923@nenu.edu.cn</a>
+  <a href="mailto:zhangy923@nenu.edu.cn">Email: zhangy923@nenu.edu.cn</a>
 
 profile:
   align: right
