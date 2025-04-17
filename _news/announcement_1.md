@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-The paper titled 'An Effective Population-Based Approach for the Partial Set Covering Problem' has been accepted for publication in the Journal of Heuristics.
+The paper titled 'An Effective Population-Based Approach for the Partial Set Covering Problem' has been published for publication in the Journal of Heuristics.
 

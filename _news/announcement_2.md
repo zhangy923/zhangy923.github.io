@@ -6,5 +6,5 @@ related_posts: false
 ---
 
 The paper titled 'Multi-type MOOCs Recommendation: Leveraging Deep Multi-Relational
-Representation and Hierarchical Reasoning' has been accepted for publication in AAAI.
+Representation and Hierarchical Reasoning' has been published for publication in AAAI.
 
