@@ -368,10 +368,10 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-the-paper-titled-multi-type-moocs-recommendation-leveraging-deep-multi-relational-representation-and-hierarchical-reasoning-has-been-accepted-for-publication-in-aaai",
+    },{id: "news-the-paper-titled-multi-type-moocs-recommendation-leveraging-deep-multi-relational-representation-and-hierarchical-reasoning-has-been-published-for-publication-in-aaai",
           title: 'The paper titled ‘Multi-type MOOCs Recommendation: Leveraging Deep Multi-Relational Representation and Hierarchical Reasoning’...',
           description: "",
-          section: "News",},{id: "news-the-paper-titled-an-effective-population-based-approach-for-the-partial-set-covering-problem-has-been-accepted-for-publication-in-the-journal-of-heuristics",
+          section: "News",},{id: "news-the-paper-titled-an-effective-population-based-approach-for-the-partial-set-covering-problem-has-been-published-for-publication-in-the-journal-of-heuristics",
           title: 'The paper titled ‘An Effective Population-Based Approach for the Partial Set Covering Problem’...',
           description: "",
           section: "News",},{id: "projects-project-1",
