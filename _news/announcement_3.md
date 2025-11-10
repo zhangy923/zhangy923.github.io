@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-The paper titled 'Dimension-Aware Active Annotation for Aesthetic Perception via Multi-Agent Human–AI Collaboration' has been accepted for publication in AAAI.
+The paper titled 'Dimension-Aware Active Annotation for Aesthetic Perception via Multi-Agent Human–AI Collaboration' has been accepted for publication in AAAI 2026.
 

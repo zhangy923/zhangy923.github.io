@@ -12,11 +12,14 @@ nav_order: 2
 I have published some papers in prestigious journals and conferences, including Data mining venues and AI venues . The representative papers can be categorized as follows:
 
 - **Data mining**
+
+  [[TLT'25]](https://ieeexplore.ieee.org/abstract/document/11129920/)
   [[AAAI'25]](https://ojs.aaai.org/index.php/AAAI/article/view/33453)
   [[TLT'24]](https://ieeexplore.ieee.org/abstract/document/10540300),
   [[AAAI'24]](https://ojs.aaai.org/index.php/AAAI/article/view/30536)
 
 - **Artificial Intelligence**
+  [[COR'25]](https://www.sciencedirect.com/science/article/pii/S0305054825000590)
   [[J HEURISTICS'25]](https://link.springer.com/article/10.1007/s10732-025-09552-7)
   [[JBHI'24]](https://ieeexplore.ieee.org/abstract/document/10777005),
   [[SPE'24]](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.3372),
