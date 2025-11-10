@@ -13,8 +13,8 @@ I have published some papers in prestigious journals and conferences, including 
 
 - **Data mining**
   [[TLT'25]](https://ieeexplore.ieee.org/abstract/document/11206436)
-  [[TLT'25]](https://ieeexplore.ieee.org/abstract/document/11129920/)
   [[AAAI'25]](https://ojs.aaai.org/index.php/AAAI/article/view/33453)
+  [[TLT'25]](https://ieeexplore.ieee.org/abstract/document/11129920/)
   [[TLT'24]](https://ieeexplore.ieee.org/abstract/document/10540300),
   [[AAAI'24]](https://ojs.aaai.org/index.php/AAAI/article/view/30536)
 
