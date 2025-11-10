@@ -368,16 +368,10 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-the-paper-titled-multi-type-moocs-recommendation-leveraging-deep-multi-relational-representation-and-hierarchical-reasoning-has-been-published-for-publication-in-aaai",
-          title: 'The paper titled ‘Multi-type MOOCs Recommendation: Leveraging Deep Multi-Relational Representation and Hierarchical Reasoning’...',
-          description: "",
-          section: "News",},{id: "news-the-paper-titled-an-effective-population-based-approach-for-the-partial-set-covering-problem-has-been-published-for-publication-in-the-journal-of-heuristics",
-          title: 'The paper titled ‘An Effective Population-Based Approach for the Partial Set Covering Problem’...',
-          description: "",
-          section: "News",},{id: "news-the-paper-titled-dynamic-requirement-driven-exercise-recommendation-via-confusion-aware-knowledge-tracing-and-nonlinear-combinatorial-optimization-has-been-published-for-publication-in-ieee-transactions-on-learning-technologies",
+    },{id: "news-the-paper-titled-dynamic-requirement-driven-exercise-recommendation-via-confusion-aware-knowledge-tracing-and-nonlinear-combinatorial-optimization-has-been-published-for-publication-in-ieee-transactions-on-learning-technologies",
           title: 'The paper titled ‘Dynamic Requirement-Driven Exercise Recommendation via Confusion-Aware Knowledge Tracing and Nonlinear...',
           description: "",
-          section: "News",},{id: "news-the-paper-titled-dimension-aware-active-annotation-for-aesthetic-perception-via-multi-agent-human-ai-collaboration-has-been-accepted-for-publication-in-aaai",
+          section: "News",},{id: "news-the-paper-titled-dimension-aware-active-annotation-for-aesthetic-perception-via-multi-agent-human-ai-collaboration-has-been-accepted-for-publication-in-aaai-2026",
           title: 'The paper titled ‘Dimension-Aware Active Annotation for Aesthetic Perception via Multi-Agent Human–AI Collaboration’...',
           description: "",
           section: "News",},{id: "projects-project-1",
